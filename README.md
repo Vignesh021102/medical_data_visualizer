@@ -2,7 +2,8 @@
 
 https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
 
-Explored the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices using the medical dataset
+Explored the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices using the medical dataset.
+
 visualized:
 1. Counts of good and bad outcomes for the cholesterol, gluc, alco, active, and smoke variables for patients with/without cardio.
 2. correlation matrix using heatmap.
